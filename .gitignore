@@ -1,0 +1,21 @@
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+# For unreal engine
+################################################################################
+
+**/Binaries
+**/Build
+**/DerivedDataCache
+**/Intermediate
+**/Saved
+**/v15/ipch/AutoPCH
+**/vs
+/Project12/BreakOut_Room0d1/Content/StarterContent
+
+
+################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+*.vc.db
+*.VC.opendb
+*.ipch
