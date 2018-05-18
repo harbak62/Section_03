@@ -8,6 +8,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{EACA54DF-B434-4D1D-9238-3392EE09E838}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{0F66F41B-803F-4514-B750-2ADEF2A4BF0A}"
+	ProjectSection(ProjectDependencies) = postProject
+		{196FB92C-FB4A-4D55-B377-3E6CFC4A00EC} = {196FB92C-FB4A-4D55-B377-3E6CFC4A00EC}
+	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BreakOut_Room0d1", "Intermediate\ProjectFiles\BreakOut_Room0d1.vcxproj", "{196FB92C-FB4A-4D55-B377-3E6CFC4A00EC}"
 EndProject
